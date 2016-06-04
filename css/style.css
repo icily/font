@@ -2,3 +2,15 @@
     font-family: 'RBNo2';
     src: url('http://icily.github.io/font/rbno2.ttf');
 }
+
+body{
+	text-align: center;
+}
+
+.button{
+	border: none;
+	border-radius: 1em;
+	color: #fff;
+	padding: 0.5em 1em;
+	background-color: #db1f57;
+}
